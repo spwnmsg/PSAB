@@ -1,24 +1,13 @@
 # spwnmsg-client
 
-## Project setup
-```
-npm install
-```
+## compiling client
+no damn clue someone help me
 
-### Compiles and hot-reloads for development
+## compiling vue
+just run some commands and ur good to go
+```sh
+# at the project root
+$ cd vue
+$ npm i
+$ npm run serve
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <MessageArea id="message-area" class="left-align"></MessageArea>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MessageArea from './components/MessageArea.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    MessageArea
   }
 }
 </script>
